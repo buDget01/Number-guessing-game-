@@ -1,0 +1,8 @@
+C:\Users\mytri\OneDrive\Desktop\School 22,23\IMS 22-23\Lernatelier 2\Projekte\Einarbeitungs Projekt\Random Number Generator 2.0\Random Number Generator 2.0\bin\Debug\Random Number Generator 2.0.exe.config
+C:\Users\mytri\OneDrive\Desktop\School 22,23\IMS 22-23\Lernatelier 2\Projekte\Einarbeitungs Projekt\Random Number Generator 2.0\Random Number Generator 2.0\bin\Debug\Random Number Generator 2.0.exe
+C:\Users\mytri\OneDrive\Desktop\School 22,23\IMS 22-23\Lernatelier 2\Projekte\Einarbeitungs Projekt\Random Number Generator 2.0\Random Number Generator 2.0\bin\Debug\Random Number Generator 2.0.pdb
+C:\Users\mytri\OneDrive\Desktop\School 22,23\IMS 22-23\Lernatelier 2\Projekte\Einarbeitungs Projekt\Random Number Generator 2.0\Random Number Generator 2.0\obj\Debug\Random Number Generator 2.0.csproj.AssemblyReference.cache
+C:\Users\mytri\OneDrive\Desktop\School 22,23\IMS 22-23\Lernatelier 2\Projekte\Einarbeitungs Projekt\Random Number Generator 2.0\Random Number Generator 2.0\obj\Debug\Random Number Generator 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\mytri\OneDrive\Desktop\School 22,23\IMS 22-23\Lernatelier 2\Projekte\Einarbeitungs Projekt\Random Number Generator 2.0\Random Number Generator 2.0\obj\Debug\Random Number Generator 2.0.csproj.CoreCompileInputs.cache
+C:\Users\mytri\OneDrive\Desktop\School 22,23\IMS 22-23\Lernatelier 2\Projekte\Einarbeitungs Projekt\Random Number Generator 2.0\Random Number Generator 2.0\obj\Debug\Random Number Generator 2.0.exe
+C:\Users\mytri\OneDrive\Desktop\School 22,23\IMS 22-23\Lernatelier 2\Projekte\Einarbeitungs Projekt\Random Number Generator 2.0\Random Number Generator 2.0\obj\Debug\Random Number Generator 2.0.pdb
